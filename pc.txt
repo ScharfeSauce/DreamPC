@@ -3,3 +3,4 @@ Ein passendes Moutherboard
 GPU muss nicht so anspruchsvoll sein
 CPU muss leistungstark sein, ich brauch rechenleistung für die arbeit
 SSD auf jeden Fall, denn wer braucht noch Festplatte
+Eine Menge RAM, ich muss ne menge Stuff gleichzeitg laufen lassen, vorzugsweise 16GB
